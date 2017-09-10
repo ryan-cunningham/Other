@@ -1,4 +1,4 @@
-# Exercise 20 - Functions and Files
+# LPTHW: Exercise 20 - Functions and Files
 
 from sys import argv
 
