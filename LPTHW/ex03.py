@@ -1,4 +1,4 @@
-# Exercise 3 - Numbers And Math
+# LPTHW: Exercise 3 - Numbers And Math
 
 print("I will now count my chickens:")
 
