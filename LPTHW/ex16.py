@@ -1,4 +1,4 @@
-# Exercise 16 - Reading and Writing Files
+# LPTHW: Exercise 16 - Reading and Writing Files
 
 from sys import argv
 
