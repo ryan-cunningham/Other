@@ -1,4 +1,4 @@
-# Exercise 15 - Reading Files
+# LPTHW: Exercise 15 - Reading Files
 
 from sys import argv
 
