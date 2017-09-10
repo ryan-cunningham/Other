@@ -1,4 +1,4 @@
-# Exercise 18 - Names, Variables, Code, Functions
+# LPTHW: Exercise 18 - Names, Variables, Code, Functions
 
 # this one is like your scripts with argv
 def print_two(*args):
