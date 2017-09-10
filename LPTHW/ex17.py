@@ -1,4 +1,4 @@
-# Exercise 17 - More Files
+# LPTHW: Exercise 17 - More Files
 
 from sys import argv
 from os.path import exists
