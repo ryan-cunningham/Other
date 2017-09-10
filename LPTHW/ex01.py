@@ -1,4 +1,4 @@
-# Exercise 1 - A Good First Program
+# LPTHW: Exercise 1 - A Good First Program
 
 print("Hello World!")
 print("Helo Again")
