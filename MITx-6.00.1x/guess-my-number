@@ -1,5 +1,5 @@
 # Part 3: Simple Algorithms (week 2)
-# Exercise: Guess My Number
+# Exercise: guess my number
 
 low = 0
 hi = 100
