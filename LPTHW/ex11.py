@@ -1,4 +1,4 @@
-# Exercise 11 - Asking Questions
+# LPTHW: Exercise 11 - Asking Questions
 
 print("How old are you?", end=' ')
 age = input()
