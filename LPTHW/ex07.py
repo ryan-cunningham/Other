@@ -1,4 +1,4 @@
-# Exercise 7 - More Printing
+# LPTHW: Exercise 7 - More Printing
 
 print("Mary had a little lamb.")
 print("Its fleece was white as {}.".format('snow'))
