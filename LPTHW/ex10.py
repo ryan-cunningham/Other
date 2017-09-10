@@ -1,4 +1,4 @@
-# Exercise 10 - What Was That
+# LPTHW: Exercise 10 - What Was That
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
