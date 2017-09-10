@@ -1,4 +1,4 @@
-# Exercise 8 - Printing, Printing
+# LPTHW: Exercise 8 - Printing, Printing
 
 formatter = "{} {} {} {}"
 
