@@ -1,4 +1,4 @@
-# Exercise 14 - Prompting and Passing
+# LPTHW: Exercise 14 - Prompting and Passing
 
 from sys import argv
 
