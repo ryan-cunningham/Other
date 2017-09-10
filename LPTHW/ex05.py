@@ -1,4 +1,4 @@
-# Exercise 5 - More Variables And Printing
+# LPTHW: Exercise 5 - More Variables And Printing
 
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a like
