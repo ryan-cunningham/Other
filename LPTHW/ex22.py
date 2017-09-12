@@ -10,7 +10,7 @@ variable3 = "in variety of ways"
 
 print(variable1, f"strings with {variable2} " + variable3 + "." * 3)
 
-Also = """\nNewlines
+also = """\nNewlines
 \tTabbed in...
 
 user input
@@ -22,3 +22,5 @@ creating files
 copying files
 Functions
 """
+
+print(also)
