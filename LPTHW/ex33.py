@@ -23,19 +23,17 @@ for num in numbers:
 ##### study drills #####
 ########################
 
-def iterate(hi, step):
+def listgen(hi, step):
     for i in range (0, hi, step):
-        print(f"At the top i is {i}")
         numbers.append(i)
-        print("Numbers now:", numbers)
-        print(f"At the bottom i is {i}")
+
 
 hi = int(input("What is our range? (start point is 0): "))
 step = int(input("And the step-size?: "))
 
 numbers = []
 
-iterate(hi, step)
+listgen(hi, step)
 
 print("The numbers:")
 
