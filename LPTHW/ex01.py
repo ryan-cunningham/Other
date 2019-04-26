@@ -1,7 +1,7 @@
 # LPTHW: Exercise 1 - A Good First Program
 
 print("Hello World!")
-print("Helo Again")
+print("Hello Again")
 print("I like typing this.")
 print("This is fun.")
 print('Yay! Printing.')
